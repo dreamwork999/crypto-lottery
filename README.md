@@ -1,14 +1,12 @@
 # Crypto Lottery
 
-This repository is intended to be the code base for the tutorial: https://dev.to/johbu/creating-a-lottery-with-hardhat-and-chainlink-385f
-
 
 ### Test Smart Contract locally
 
 1. Clone the repository 
 
 ```sh
-git clone https://github.com/johburn/crypto-lottery
+git clone https://github.com/dreamwork999/crypto-lottery
 ```
 
 2. Install dependencies
@@ -35,7 +33,7 @@ yarn run test:unit
 1. Clone the repository 
 
 ```sh
-git clone https://github.com/johburn/crypto-lottery
+git clone https://github.com/dreamwork999/crypto-lottery
 ```
 
 2. Install dependencies
@@ -78,7 +76,7 @@ yarn run test:integration
 1. Clone the repository 
 
 ```sh
-git clone https://github.com/johburn/crypto-lottery
+git clone https://github.com/dreamwork999/crypto-lottery
 ```
 
 2. Install Smart Contract dependencies
